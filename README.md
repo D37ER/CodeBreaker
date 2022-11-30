@@ -1,3 +1,8 @@
+## Instrukcje instalacji
+
+https://przemus.put.poznan.pl/
+
+
 ### Problem, Kontekst, Założenia projektu
 
 Prezentacja : https://docs.google.com/presentation/d/15svDBA31e_XaqNJapjxDUPRW4uDdVdSI/edit?usp=sharing&ouid=112623470820879920896&rtpof=true&sd=true
